@@ -34,11 +34,11 @@ feature:
     name: Guitar
   - description: 40%
     icon: piano
-    icon_pack: fas
+    icon_pack: fab
     name: Piano
   - description: 50%
     icon: pen-line
-    icon_pack: far
+    icon_pack: fas
     name: Writing
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
