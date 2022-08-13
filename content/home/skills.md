@@ -24,12 +24,12 @@ feature:
     icon: java
     icon_pack: fab
     name: Java
-  - description: 40%
+  - description: 50%
     icon: camera-retro
     icon_pack: fas
     name: Photography
   - description: 40%
-    icon: piano
+    icon: fa-piano
     icon_pack: fas
     name: Piano
   - description: 40%
