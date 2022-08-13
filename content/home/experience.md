@@ -52,6 +52,11 @@ experience:
 #    date_start: '2018-09-01'
 #    date_end: '2022-07-01‘
 #    description: Test
+  - title: Bachelor of Communication Engineering
+    company: University of Electronic Science and Technology of China
+    company_url: ''
+    company_logo: org-x
+    date_start: '2018-09-01'
 
   - title: Professor of Semiconductor Physics
     company: University X
