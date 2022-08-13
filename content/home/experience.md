@@ -52,13 +52,14 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-#  - title: Bachelor of Communication Engineering
-#    company: University of Electronic Science and Technology of China
-#    company_url: 'https://www.uestc.edu.cn'
-#    company_logo: org-x
-#    location: ChengDu, China
-#    date_start: '2018-09-01'
-#    date_end: '2022-07-01‘
+- title: Bachelor of Communication Engineering
+    company: University of Electronic Science and Technology of China
+    company_url: 'https://www.uestc.edu.cn'
+    company_logo: org-x
+    location: ChengDu, China
+    date_start: '2018-09-01'
+    date_end: '2022-07-01‘
+    description: Test
 #    description: |2-
 #        Courses include:
 
