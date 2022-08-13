@@ -29,13 +29,13 @@ feature:
     icon_pack: fas
     name: Photography
   - description: 40%
-    icon: fa-piano
-    icon_pack: fas
-    name: Piano
-  - description: 40%
     icon: guitar
     icon_pack: fas
     name: Guitar
+  - description: 40%
+    icon: piano
+    icon_pack: fas
+    name: Piano
   - description: 50%
     icon: pen-line
     icon_pack: far
