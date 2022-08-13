@@ -42,8 +42,8 @@ experience:
 
         * Digital Signal Processing (H)
         * Information Theory and Coding
-        * Principle of Communication (H)
-        * Mobile Communication Systems (H)
+#        * Principle of Communication (H)
+#        * Mobile Communication Systems (H)
 
 design:
   columns: '2'
