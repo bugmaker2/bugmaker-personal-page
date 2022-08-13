@@ -23,27 +23,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Master of Science in Industry 4.0
-	company: National University of Singapore
-	company_url:'https://www.nus.edu.sg'
-	company_logo: org-x
-	location: Singapore
-	date_start: '2022-08-01'
-	date_end: ''
+    company: National University of Singapore
+    company_url:'https://www.nus.edu.sg'
+    company_logo: org-x
+    location: Singapore
+    date_start: '2022-08-01'
+    date_end: ''
 
   - title: Bachelor of Communication Engineering
-	company: University of Electronic Science and Technology of China
-	company_url: 'https://www.uestc.edu.cn'
-	company_logo: org-x
-	location: ChengDu, China
-	date_start: '2018-09-01'
-	date_end: '2022-07-01‘
-	description: |2-
-		Courses include:
+    company: University of Electronic Science and Technology of China
+    company_url: 'https://www.uestc.edu.cn'
+    company_logo: org-x
+    location: ChengDu, China
+    date_start: '2018-09-01'
+    date_end: '2022-07-01‘
+    description: |2-
+        Courses include:
 
-		* Digital Signal Processing (H)
-		* Information Theory and Coding
-		* Principle of Communication (H)
-		* Mobile Communication Systems (H)
+        * Digital Signal Processing (H)
+        * Information Theory and Coding
+        * Principle of Communication (H)
+        * Mobile Communication Systems (H)
 
 design:
   columns: '2'
