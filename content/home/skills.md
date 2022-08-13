@@ -17,29 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-	icon: python
-	icon_pack: fab
-	name: Python
+    icon: python
+    icon_pack: fab
+    name: Python
   - description: 60%
-	icon: java
-	icon_pack: fab
-	name: Java
+    icon: java
+    icon_pack: fab
+    name: Java
   - description: 40%
     icon: camera-retro
     icon_pack: fas
     name: Photography
   - description: 40%
-	icon: piano
-	icon_pack: fas
-	name: Piano
+    icon: piano
+    icon_pack: fas
+    name: Piano
   - description: 40%
-	icon: guitar
-	icon_pack: fas
-	name: Guitar
+    icon: guitar
+    icon_pack: fas
+    name: Guitar
   - description: 50%
-	icon: pen-line
-	icon_pack: far
-	name: Writing
+    icon: pen-line
+    icon_pack: far
+    name: Writing
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
