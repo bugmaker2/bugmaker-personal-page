@@ -21,37 +21,16 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#experience:
-#  - title: Master of Science in Industry 4.0
-#    company: National University of Singapore
-#    company_url: 'https://www.nus.edu.sg'
-#    company_logo: org-x
-#    location: Singapore
-#    date_start: '2022-08-01'
-#    date_end: ''
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
-#  - title: Bachelor of Communication Engineering
-#    company: University of Electronic Science and Technology of China
-#    company_url: 'https://www.uestc.edu.cn'
-#    company_logo: org-x
-#    location: ChengDu, China
-#    date_start: '2018-09-01'
-#    date_end: '2022-07-01‘
-#    description: Test
+experience:
+  - title: Master of Science in Industry 4.0
+    company: National University of Singapore
+    company_url: 'https://www.nus.edu.sg'
+    company_logo: org-gc
+    location: Singapore
+    date_start: '2022-08-01'
+    date_end: ''
+
   - title: Bachelor of Communication Engineering
     company: University of Electronic Science and Technology of China
     company_url: 'https://www.uestc.edu.cn'
@@ -66,24 +45,6 @@ experience:
         * Information Theory and Coding
         * Principle of Communication (H)
         * Mobile Communication Systems (H)
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-
-#    description: |2-
-#        Courses include:
-
-#        * Digital Signal Processing (H)
-#        * Information Theory and Coding
-#        * Principle of Communication (H)
-#        * Mobile Communication Systems (H)
 
 design:
   columns: '2'
