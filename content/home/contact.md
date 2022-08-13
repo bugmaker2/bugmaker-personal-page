@@ -22,11 +22,11 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: e0954477@u.nus.edu
-  phone: +65 8887 6618
+  #email: e0954477@u.nus.edu
+  #phone: +65 8887 6618
   #address:
   #  street: 450 Serra Mall
   #  city: Stanford
