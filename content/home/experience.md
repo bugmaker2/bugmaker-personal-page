@@ -59,6 +59,13 @@ experience:
     location: ChengDu, China
     date_start: '2018-09-01'
     date_end: '2022-07-01'
+    description: |2-
+        Courses include:
+        
+        * Diginal Signal Processing (H)
+        * Information Theory and Coding
+        * Principle of Communication (H)
+        * Mobile Communication Systems (H)
 
   - title: Professor of Semiconductor Physics
     company: University X
