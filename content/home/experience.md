@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Master of Science in Industry 4.0
     company: National University of Singapore
-    company_url:'https://www.nus.edu.sg'
+    company_url: 'https://www.nus.edu.sg'
     company_logo: org-x
     location: Singapore
     date_start: '2022-08-01'
