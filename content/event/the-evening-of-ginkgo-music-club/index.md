@@ -15,7 +15,7 @@ publishDate: 2022-08-14T04:03:53.895Z
 draft: false
 featured: false
 image:
-  filename: cdht.jpeg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
