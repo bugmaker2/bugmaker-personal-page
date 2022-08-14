@@ -9,7 +9,7 @@ location: UESTC Hall
 date: 2020-06-03T01:00:53.843Z
 date_end: 2020-06-03T14:00:00.000Z
 all_day: true
-event: Club gala
+event: no link
 event_url: empty
 publishDate: 2022-08-14T04:03:53.895Z
 draft: false
